@@ -10,4 +10,7 @@ temp = a   # temp = 10
 a = b   # a = 20
 b = temp   # b = 10
 
-print(f"a ={a} and b  ={b}")
+print(f"a = {a} and b  = {b}")
+# Using tuples to swap the numbers
+a, b = b, a
+print(f"a = {a} and b  = {b}")
