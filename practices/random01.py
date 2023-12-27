@@ -8,7 +8,7 @@ import random
 # print(my_num2)
 # print(my_num3)
 
-# my_list = ("Carlton", "Brendon", "Dylan", "Mackenzie", "Tinashe")
+# my_list = ("Simon", "Captain", "Micheal", "Munya", "Simeon")
 # winner = random.choice(my_list)
 # print(winner)
 
