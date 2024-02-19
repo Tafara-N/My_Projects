@@ -1,1 +1,1 @@
-0x00 basic projects whilw practicing python
+## 0x00 basic projects while practicing python
