@@ -11,11 +11,11 @@ Welcome to My_Projects repository! This repository contains a collection of Pyth
 
 Here's a brief overview of some of the projects included in this repository:
 
-1. ****: Brief description of the project.
-2. ****: Brief description of the project.
-3. ...
+1. **3-function**: Here l was looking into fuctions in python and taking on various coding challenges pertaining functions.
+2. **classes_practice**: Here l was looking into classes in python.
+3. **AirBnBv2_clone** Here l did a bit of practice on the AirBnB The console project
 
-Feel free to explore the directories to learn more about each project!
+- ## You are free to explore the directories l have learned so far to learn more about each project
 
 ## Getting Started
 
