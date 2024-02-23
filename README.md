@@ -1,6 +1,9 @@
+![Python](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
+
 # My_Projects
 
-Welcome to My_Projects repository! This repository contains a collection of Python projects and scripts that I've worked on so far on my journey while learning python.
+Welcome to My Projects repository!  
+This repository contains a collection of Python projects and scripts that I've worked on so far on my journey while learning python.
 
 ## Contents
 
@@ -22,4 +25,5 @@ Here's a brief overview of some of the projects included in this repository:
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/My_Projects.git
+git clone https://github.com/Brendon45/My_Projects.git
+```
