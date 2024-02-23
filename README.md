@@ -1,10 +1,13 @@
+![Pyhton](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G7lfHVAusHMoTKbHXHA0RtXGzOfyHx_T-Q&usqp=CAU)
+
 # My_Projects
 
-Welcome to My_Projects repository! This repository contains a collection of Python projects and scripts that I've worked on so far on my journey while learning python.
+Welcome to My Projects repository!  
+This repository contains a collection of Python projects and scripts that I've worked on so far on my journey while learning python.
 
 ## Contents
 
-- Each project or script is contained in its own directory.
+- Each project or script is contained in it's own directory.
 - Inside each directory, you'll find the Python code files along with any necessary resources or documentation.
 
 ## Projects
@@ -22,4 +25,5 @@ Here's a brief overview of some of the projects included in this repository:
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/My_Projects.git
+git clone https://github.com/Brendon-45/My_Projects.git
+```
